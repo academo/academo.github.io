@@ -1,4 +1,4 @@
-baseURL = 'https://academo.nl/'
+baseURL = 'https://blog.academo.nl/'
 languageCode = 'en-us'
 title = 'Esteban builds stuff'
 theme = 'ananke'
