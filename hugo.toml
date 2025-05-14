@@ -2,3 +2,6 @@ baseURL = 'https://academo.nl/'
 languageCode = 'en-us'
 title = 'Esteban builds stuff'
 theme = 'ananke'
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
