@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Esteban builds stuff</title>
+    <link>https://academo.nl/</link>
+    <description>Recent content on Esteban builds stuff</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 14 May 2025 11:35:57 +0200</lastBuildDate>
+    <atom:link href="https://academo.nl/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>I built a blog</title>
+      <link>https://academo.nl/posts/my-first-post/</link>
+      <pubDate>Wed, 14 May 2025 11:35:57 +0200</pubDate>
+      <guid>https://academo.nl/posts/my-first-post/</guid>
+      <description>&lt;p&gt;So I built this website. Using Hugo.&lt;/p&gt;&#xA;&lt;p&gt;It was rather easy. I followed the instructions &lt;a href=&#34;https://gohugo.io/getting-started/quick-start/&#34;&gt;here&lt;/a&gt; to setup Hugo and this first page&lt;/p&gt;&#xA;&lt;p&gt;This blog is hosted in github, using github actions. Hugo has a great documentation on how to do it &lt;a href=&#34;https://gohugo.io/host-and-deploy/host-on-github-pages/&#34;&gt;here&lt;/a&gt; so I won&amp;rsquo;t repeat the same information&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
